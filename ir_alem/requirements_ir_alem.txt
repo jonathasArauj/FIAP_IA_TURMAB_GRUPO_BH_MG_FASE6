@@ -1,0 +1,18 @@
+# Dependências do detector em tempo real (rodar localmente, Python 3.10+)
+torch>=2.0
+torchvision>=0.15
+opencv-python>=4.8
+numpy
+pandas
+pillow
+pyyaml
+requests
+scipy
+tqdm
+matplotlib
+seaborn
+gitpython
+psutil
+thop
+ultralytics
+setuptools
