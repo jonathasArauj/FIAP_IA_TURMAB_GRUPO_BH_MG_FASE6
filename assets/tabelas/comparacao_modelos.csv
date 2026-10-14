@@ -1,0 +1,13 @@
+,YOLO customizado,YOLO padrão,CNN do zero
+Acertos no teste,8/8,8/8,8/8
+Acurácia,1.0,1.0,1.0
+Precisão (macro),1.0,1.0,1.0
+Recall (macro),1.0,1.0,1.0
+F1 (macro),1.0,1.0,1.0
+Tempo de treino/customização,4.0 min,0 (já vem pronto),0.3 min
+Inferência (ms/imagem),156.70522967500915,562.8863368500191,35.6142878749921
+Inferência mediana (ms),103.02030200000445,499.89525200004437,35.12783150000587
+Inferência p95 (ms),413.34327525000185,788.1451081500359,43.06037809994905
+Facilidade de uso,Média: exige rotular caixas,Alta: pronto para usar,Média: exige projetar a rede
+Localiza o objeto?,Sim,Sim,Não
+Classes que reconhece,As que treinarmos,Só as 80 do COCO,As que treinarmos

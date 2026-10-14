@@ -1,0 +1,6 @@
+{
+  "epocas": 60,
+  "criterio": "maior mAP@0.5:0.95 na validação; empate: menor orçamento",
+  "conf_classificacao": 0.25,
+  "teste_usado_na_selecao": false
+}

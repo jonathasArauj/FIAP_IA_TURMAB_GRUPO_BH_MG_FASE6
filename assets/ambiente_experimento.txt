@@ -1,0 +1,17 @@
+Ambiente de referência — dependências diretas do projeto
+
+Python: 3.10+ (Google Colab recomendado)
+NumPy
+Pandas
+Matplotlib
+Pillow
+IPython / Jupyter
+PyYAML
+scikit-learn
+tabulate
+PyTorch / TorchVision
+TensorFlow / Keras
+OpenCV headless (opencv-python-headless==4.10.0.84), instalado na seção 1
+OpenCV (opencv-python==4.14.0.94), instalado na seção 2.1 junto das dependências do YOLOv5
+
+Observação: as versões efetivamente disponíveis podem variar conforme a imagem do Google Colab. O notebook registra a configuração usada na execução em seus resultados. Não incluir pacotes transitivos ou caminhos locais de outra máquina neste manifesto.
